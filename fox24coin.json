@@ -1,0 +1,25 @@
+{
+  "name": "Fox24Coin",
+  "symbol": "FOX24",
+  "type": "ERC20",
+  "network": "Ethereum",
+  "contract_address": "0xED9114c614aD6b948a1EA21f062F6e1D0b4e8308",
+  "decimals": 18,
+  "total_supply": 100000,
+  "website": "https://fox24coin.com/",
+  "logo": "https://fox24coin.com/fox24coin.png",
+  "explorer": "https://etherscan.io/token/0xED9114c614aD6b948a1EA21f062F6e1D0b4e8308",
+  "email": "support@fox24coin.com",
+  "social": {
+    "twitter": "https://x.com/fox24coin",
+    "telegram": "https://t.me/fox24coin",
+    "discord": "https://discord.gg/fox24coin"
+  },
+  "description": "The world of cryptocurrency is filled with innovation—but trust can often be hard to come by. Our founder, Michał Rzepczyński, knows this all too well. After losing his life savings in a crypto scam, he faced a choice: give up or build something better. He chose the latter. FOX24Coin was born from that experience—to bring transparency, security, and real-world value back into crypto. It’s not just another token—it’s a testament to resilience and a commitment to protecting investors while building a trustworthy ecosystem.",
+  "mission": "FOX24Coin aims to combine the excitement of digital finance with the inspiration of a timeless store of value. By bridging the digital and the conceptual reliability of gold, we are creating a cryptocurrency that people can trust.",
+  "vision": {
+    "gold_inspired_stability": "FOX24Coin draws inspiration from gold as a timeless store of value. While the project is still in its early stages regarding gold backing and audits, our goal is to build a token that embodies stability and trust.",
+    "ai_powered_precision": "We are integrating AI to optimize project management and trading. Live market analysis and intelligent strategies help ensure stability and continuous growth.",
+    "community_first": "FOX24Coin is built for the people, not just for profit. We prioritize transparency, fairness, and open communication with our community."
+  }
+}
